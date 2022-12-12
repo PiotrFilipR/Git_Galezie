@@ -1,0 +1,119 @@
+Historia pliku piosenka.txt:
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log piosenka.txt
+commit 5e1758e3f7896dc463abb9c8a71d9efe7d770665 (HEAD -> master)
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:54:08 2022 +0100
+
+    Zmodyfikowano strukture plików zawierających refreny
+
+commit 1520cdfadf9d125d24e7b206d438ea1a16cf03bd
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:48:57 2022 +0100
+
+    Przywrócono fragment refrenu oraz naprawiono błąd z powrotem do złej wersji
+
+commit a2cd759f9e974515f4120b04774b165e8df38ebc
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:40:56 2022 +0100
+
+    Zmieniono teksty piosenki na odpowiadajace pliki
+
+commit fec8a3542347b0885325f323e1871ad5c027fa0d
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:32:38 2022 +0100
+
+    Zamieniono slowa tekstu na nazwy odpowiadajacych plikow
+
+commit 658c893d73ab8b337d915dc86d603be2161ad051
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:21:36 2022 +0100
+
+    Piosenka została wstawiona
+
+
+Historia pliku Refren_1.txt
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Refren_1.txt
+commit 1520cdfadf9d125d24e7b206d438ea1a16cf03bd
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:48:57 2022 +0100
+
+    Przywrócono fragment refrenu oraz naprawiono błąd z powrotem do złej wersji
+
+commit 6987f39d534882175335d1b8ecf41ee94e0c3bd4
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:33:34 2022 +0100
+
+    Usunieto jedna linie z refrenu
+
+commit 03dc791c1811755d3d303a9d9e8929ecfc33f655
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:27:03 2022 +0100
+
+    Dodano 1-szy refren
+
+Historia pliku Zwrotka_1.txt :
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Zwrotka_1.txt
+commit 9ee7b9b7d10f6e890104b24a53bf8490bba18b0c
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:26:02 2022 +0100
+
+    Dodano 1-sza zwrotke
+
+Historia pliku Refren_2.txt :
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Refren_2.txt
+commit 5e1758e3f7896dc463abb9c8a71d9efe7d770665 (HEAD -> master)
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:54:08 2022 +0100
+
+    Zmodyfikowano strukture plików zawierających refreny
+
+commit a05368315972ad67497537d867e8adfe9dda8c2b
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:28:53 2022 +0100
+
+    Dodano 2-gi refren
+
+Historia pliku Zwrotka_2.txt :
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Zwrotka_2.txt
+commit c1f153a8b4425b0c7113baf40848cdf0124db267
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:28:11 2022 +0100
+
+    Dodano 2-ga zwrotke
+
+Historia pliku Refren_3.txt :
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Refren_3.txt
+commit 5e1758e3f7896dc463abb9c8a71d9efe7d770665 (HEAD -> master)
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:54:08 2022 +0100
+
+    Zmodyfikowano strukture plików zawierających refreny
+
+commit 6d5965a207297eb2a58c63754d52c937b092c7b6
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:30:46 2022 +0100
+
+    Dodano 3-ci refren
+
+Historia pliku Zwrotka_3.txt :
+
+Filip@DESKTOP-7791FK8 MINGW64 ~/Podstawy_GIT (master)
+$ git log Zwrotka_3.txt
+commit a61e70579c04dcb25b7991920488f340559fdb0f
+Author: RieurSanglier <rytel.filip@gmail.com>
+Date:   Mon Dec 12 16:29:35 2022 +0100
+
+    Dodano 3-cia zwrotke
+
